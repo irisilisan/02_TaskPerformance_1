@@ -1,0 +1,24 @@
+C:\Users\CunaRigelKent(Studen\source\repos\02TaskPerformance01\02TaskPerformance01\bin\Debug\02TaskPerformance01.exe.config
+C:\Users\CunaRigelKent(Studen\source\repos\02TaskPerformance01\02TaskPerformance01\bin\Debug\02TaskPerformance01.exe
+C:\Users\CunaRigelKent(Studen\source\repos\02TaskPerformance01\02TaskPerformance01\bin\Debug\02TaskPerformance01.pdb
+C:\Users\CunaRigelKent(Studen\source\repos\02TaskPerformance01\02TaskPerformance01\obj\Debug\02TaskPerformance01.csprojAssemblyReference.cache
+C:\Users\CunaRigelKent(Studen\source\repos\02TaskPerformance01\02TaskPerformance01\obj\Debug\_02TaskPerformance01.CashierWindowQueueForm.resources
+C:\Users\CunaRigelKent(Studen\source\repos\02TaskPerformance01\02TaskPerformance01\obj\Debug\_02TaskPerformance01.CustomerView.resources
+C:\Users\CunaRigelKent(Studen\source\repos\02TaskPerformance01\02TaskPerformance01\obj\Debug\_02TaskPerformance01.Properties.Resources.resources
+C:\Users\CunaRigelKent(Studen\source\repos\02TaskPerformance01\02TaskPerformance01\obj\Debug\_02TaskPerformance01.QueingForm.resources
+C:\Users\CunaRigelKent(Studen\source\repos\02TaskPerformance01\02TaskPerformance01\obj\Debug\02TaskPerformance01.csproj.GenerateResource.cache
+C:\Users\CunaRigelKent(Studen\source\repos\02TaskPerformance01\02TaskPerformance01\obj\Debug\02TaskPerformance01.csproj.CoreCompileInputs.cache
+C:\Users\CunaRigelKent(Studen\source\repos\02TaskPerformance01\02TaskPerformance01\obj\Debug\02TaskPerformance01.exe
+C:\Users\CunaRigelKent(Studen\source\repos\02TaskPerformance01\02TaskPerformance01\obj\Debug\02TaskPerformance01.pdb
+C:\Users\JeanMarie\Desktop\Sti studies\TASKPERFORMANCE\TaskPerformance\TaskPerformance\bin\Debug\02TaskPerformance01.exe.config
+C:\Users\JeanMarie\Desktop\Sti studies\TASKPERFORMANCE\TaskPerformance\TaskPerformance\bin\Debug\02TaskPerformance01.exe
+C:\Users\JeanMarie\Desktop\Sti studies\TASKPERFORMANCE\TaskPerformance\TaskPerformance\bin\Debug\02TaskPerformance01.pdb
+C:\Users\JeanMarie\Desktop\Sti studies\TASKPERFORMANCE\TaskPerformance\TaskPerformance\obj\Debug\02TaskPerformance01.csprojAssemblyReference.cache
+C:\Users\JeanMarie\Desktop\Sti studies\TASKPERFORMANCE\TaskPerformance\TaskPerformance\obj\Debug\_02TaskPerformance01.CashierWindowQueueForm.resources
+C:\Users\JeanMarie\Desktop\Sti studies\TASKPERFORMANCE\TaskPerformance\TaskPerformance\obj\Debug\_02TaskPerformance01.CustomerView.resources
+C:\Users\JeanMarie\Desktop\Sti studies\TASKPERFORMANCE\TaskPerformance\TaskPerformance\obj\Debug\_02TaskPerformance01.Properties.Resources.resources
+C:\Users\JeanMarie\Desktop\Sti studies\TASKPERFORMANCE\TaskPerformance\TaskPerformance\obj\Debug\_02TaskPerformance01.QueingForm.resources
+C:\Users\JeanMarie\Desktop\Sti studies\TASKPERFORMANCE\TaskPerformance\TaskPerformance\obj\Debug\02TaskPerformance01.csproj.GenerateResource.cache
+C:\Users\JeanMarie\Desktop\Sti studies\TASKPERFORMANCE\TaskPerformance\TaskPerformance\obj\Debug\02TaskPerformance01.csproj.CoreCompileInputs.cache
+C:\Users\JeanMarie\Desktop\Sti studies\TASKPERFORMANCE\TaskPerformance\TaskPerformance\obj\Debug\02TaskPerformance01.exe
+C:\Users\JeanMarie\Desktop\Sti studies\TASKPERFORMANCE\TaskPerformance\TaskPerformance\obj\Debug\02TaskPerformance01.pdb
